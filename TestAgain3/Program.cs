@@ -8,6 +8,7 @@ namespace TestAgain3
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World part deux!");
+            Console.WriteLine("Hello World part trois!");
         }
     }
 }
